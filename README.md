@@ -71,7 +71,7 @@ cd richy-media-website-template
 
 <h2 id="contact">Contact</h2>
 <p>
-  For any inquiries, suggestions, or feedback, please contact us at <a href="mailto:contact@richymedia.com">contact@richymedia.com</a>.
+  For any inquiries, suggestions, or feedback, please contact us at <a href="mailto:pr@richymedia.com">pr@richymedia.com</a>.
 </p>
 
 <p align="center"><strong>Enjoy building with Richy Media Website Template!</strong></p>
