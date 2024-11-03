@@ -29,6 +29,9 @@
   <li><strong>Open Source</strong>: Free to use for commercial and non-commercial projects.</li>
 </ul>
 
+![Richy media Website](http://richymedia.com/website-template.png/)
+
+
 <h2 id="installation">Installation</h2>
 <p>
   To get started, you can clone this repository to your local environment. Ensure you have <a href="https://git-scm.com/">Git</a> installed.
