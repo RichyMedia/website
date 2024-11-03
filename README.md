@@ -29,7 +29,7 @@
   <li><strong>Open Source</strong>: Free to use for commercial and non-commercial projects.</li>
 </ul>
 
-![Richy media Website](http://richymedia.com/website-template.png/)
+![Richy media Website](http://richymedia.com/website-template.png)
 
 
 <h2 id="installation">Installation</h2>
