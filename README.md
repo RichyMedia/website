@@ -27,6 +27,8 @@
   <li><strong>Easily Customizable</strong>: Adjust colors, fonts, and layout to suit your branding needs.</li>
   <li><strong>Cross-Browser Compatibility</strong>: Works seamlessly across major browsers.</li>
   <li><strong>Open Source</strong>: Free to use for commercial and non-commercial projects.</li>
+  <li><strong>Blog</strong>: Our blog is hosted on Ghost.org, please check <a href="#contributing">[Contributing](https://ghost.org)</a> for more.</li>
+
 </ul>
 
 ![Richy media Website](http://richymedia.com/website-template.png)
