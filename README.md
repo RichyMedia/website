@@ -34,8 +34,8 @@
   To get started, you can clone this repository to your local environment. Ensure you have <a href="https://git-scm.com/">Git</a> installed.
 </p>
 
-<pre><code>git clone https://github.com/username/richy-media-website-template.git
-cd richy-media-website-template
+<pre><code>git clone https://github.com/RichyMedia/website.git
+cd website
 </code></pre>
 
 <h2 id="usage">Usage</h2>
