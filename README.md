@@ -48,12 +48,8 @@ cd website
   <li><strong>Launch Locally</strong>: Use any local development server, such as <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> on VS Code, to view your changes in real-time.</li>
 </ol>
 
-<h3>Example Commands</h3>
-<p>If using Node.js, you can use the following command to install dependencies:</p>
-<pre><code>npm install</code></pre>
-
-<p>Then, to start a local server:</p>
-<pre><code>npm start</code></pre>
+<h3>Dependencies</h3>
+<pre><code>No dependencies. Ready to use.</code></pre>
 
 <h2 id="contributing">Contributing</h2>
 <p>
