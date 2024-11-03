@@ -28,7 +28,7 @@
   <li><strong>Cross-Browser Compatibility</strong>: Works seamlessly across major browsers.</li>
   <li><strong>Open Source</strong>: Free to use for commercial and non-commercial projects.</li>
   <li><strong>Blog</strong>: Our blog is hosted on Ghost.org, please check <a href="https://ghost.org" target="_blank">[Ghost](https://ghost.org)</a> for more.</li>
-  <li><strong>Pop-ups</strong>: Notifications on our website are by WiserNotify, see <a href="https://wisernotify.com" target="_blank">[WiserNotify](https://wisernotify.com)</a> website for more.</li>
+  <li><strong>Pop-ups</strong>: Notifications on our website are by WiserNotify, see <a href="https://wisernotify.com" target="_blank">[WiserNotify](https://wisernotify.com)</a>.</li>
 
 </ul>
 
