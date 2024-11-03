@@ -27,8 +27,8 @@
   <li><strong>Easily Customizable</strong>: Adjust colors, fonts, and layout to suit your branding needs.</li>
   <li><strong>Cross-Browser Compatibility</strong>: Works seamlessly across major browsers.</li>
   <li><strong>Open Source</strong>: Free to use for commercial and non-commercial projects.</li>
-  <li><strong>Blog</strong>: Our blog is hosted on Ghost.org, please check <a href="#contributing">[Ghost](https://ghost.org)</a> for more.</li>
-  <li><strong>Pop-ups</strong>: Notifications and pop-ups by WiserNotify, please check <a href="#contributing">[WiserNotify](https://wisernotify.com)</a> for more.</li>
+  <li><strong>Blog</strong>: Our blog is hosted on Ghost.org, please check <a href="https://ghost.org" target="_blank">[Ghost](https://ghost.org)</a> for more.</li>
+  <li><strong>Pop-ups</strong>: Notifications and pop-ups by WiserNotify, please check <a href="https://wisernotify.com" target="_blank">[WiserNotify](https://wisernotify.com)</a> for more.</li>
 
 </ul>
 
