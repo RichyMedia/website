@@ -57,7 +57,7 @@ cd website
 
 <h2 id="contributing">Contributing</h2>
 <p>
-  We welcome contributions to enhance and expand the Richy Media Website Template. To contribute:
+  We welcome contributions to enhance and expand the Richy Media website template. To contribute:
 </p>
 <ol>
   <li>Fork this repository.</li>
@@ -65,7 +65,7 @@ cd website
   <li>Make your changes and commit them with clear messages.</li>
   <li>Submit a pull request, and our team will review it.</li>
 </ol>
-<p>Thank you for helping us improve this project!</p>
+<p>Thank you for helping us improve this project and happy developing!</p>
 
 <h2 id="license">License</h2>
 <p>
