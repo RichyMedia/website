@@ -32,8 +32,6 @@
 
 </ul>
 
-![Richy Media Website](http://richymedia.com/website-template.png)
-
 
 <h2 id="installation">Installation</h2>
 <p>
