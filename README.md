@@ -1,7 +1,7 @@
 <h1 align="center">Richy Media | Website Template</h1>
 
 <p align="center">
-  Welcome to the <strong>Richy<a href="https://richymedia.com">Richy Media</a> Website Template</strong>! This template provides a versatile, stylish, and easily customizable foundation for building modern websites. Designed with developers in mind, it supports a wide range of applications, from personal portfolios to business websites.
+  Welcome to the <strong><a href="https://richymedia.com">Richy Media</a> Website Template</strong>! This template provides a versatile, stylish, and easily customizable foundation for building modern websites. Designed with developers in mind, it supports a wide range of applications, from personal portfolios to business websites.
 </p> 
 
 <h2>Table of Contents</h2>
