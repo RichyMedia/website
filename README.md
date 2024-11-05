@@ -1,7 +1,7 @@
 <h1 align="center">Richy Media | Website Template</h1>
 
 <p align="center">
-  Welcome to the <strong><a href="https://richymedia.com">Richy Media</a> Website Template</strong>
+  <strong><a href="https://richymedia.com">Richy Media</a> Website Template</strong>
 </p> 
 
 <h2>Table of Contents</h2>
@@ -73,5 +73,3 @@ cd website
 <p>
   For any inquiries, suggestions, or feedback, please contact us at <a href="mailto:pr@richymedia.com">pr@richymedia.com</a>.
 </p>
-
-<p align="center"><strong>Enjoy building with Richy Media Website Template!</strong></p>
