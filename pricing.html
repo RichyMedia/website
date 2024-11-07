@@ -69,6 +69,48 @@
 	
 	<body class="is-preload">
 	<a href="#"><img class="logo" src="images/logo.png" alt="Logo"></a>
+	
+	<a href="https://richymedia.com/"><img class="logo" src="images/richy_media_black.png" alt="Richy Media Logo"></a>
+
+	<button class="button2 btn-nav2" id="openAIPopup" style="font-size: 7px;letter-spacing: 1.5px;height: 30px;border: 2px solid white;display: inline-flex;align-items: center;width: 140px;background: black;justify-content: center;position: fixed;z-index: 7;top: 85px;right: 27px;">✨ Write a PR with AI</button>
+
+<div class="overlay" id="overlay"></div>
+
+<div class="popupai" id="popupai">
+  <div class="popup-content">   <span class="close-button" id="closePopup">&times;</span>
+<div style="box-shadow: 0 0 10px 0px white;margin: 10px;border-radius: 20px;height: 35px;border: 1px solid white;display: inline-flex;align-items: center;width: 150px;background: black;justify-content: center;"><p style="margin:unset;font-size: 10px;letter-spacing: 1px;text-transform: uppercase;">✨ <b> Write a PR with AI</b></p> </div>
+<div class="probe-ai-widget" data-widget="ai-press-release-writer-32207_e60a4a80c13644abb6b1223f50470c87" data-theme="monotone-dark" data-width="300" data-language="en"></div>
+  </div>
+</div>
+
+<script>
+// Get the elements
+const openPopupButton = document.getElementById('openAIPopup');
+const closePopupButton = document.getElementById('closePopup');
+const popupai = document.getElementById('popupai');
+const overlay = document.getElementById('overlay');
+
+// Open the popup
+openPopupButton.onclick = function(event) {
+  event.stopPropagation(); // Prevent this click from triggering window.onclick
+  popupai.style.display = 'block';
+  overlay.style.display = 'block';
+}
+
+// Close the popup when clicking the close button
+closePopupButton.onclick = function() {
+  popupai.style.display = 'none';
+  overlay.style.display = 'none';
+}
+
+// Close the popup when clicking on the overlay OR outside the popup
+window.onclick = function(event) {
+  if (event.target == overlay || !popupai.contains(event.target)) {
+    popupai.style.display = 'none';
+    overlay.style.display = 'none';
+  }
+}
+</script>
 		<!-- Page Wrapper -->
 			<div id="page-wrapper" class="mobile">
 				<!-- Wrapper -->
@@ -853,7 +895,8 @@
 		<script src="assets/js/browser.min.js"></script>
 		<script src="assets/js/breakpoints.min.js"></script>
 		<script src="assets/js/main.js"></script>
-		
+		<script defer type="text/javascript" src="https://www.ai-widget.com/Scripts?version=0.2" referrerPolicy="no-referrer-when-downgrade"></script>
+
 		<script defer>
 		// View Sample
 		document.getElementById('view-sample-box').addEventListener('click', function() {
