@@ -4793,21 +4793,3 @@ input, select, textarea {
     top: 10px;
 }
   }
-  
-  .overlay {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0,0,0,0.5);
-    z-index:   
- 999; /* Ensure overlay is below popup */
-  }
-  /* Responsive Design - Adjust as needed */
-  @media screen and (max-width: 768px) {
-    .popup {
-      width: 95%;
-    }
-  }
