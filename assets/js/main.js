@@ -754,6 +754,23 @@
 
 })(jQuery);
 
+// Space Key Propagation in Textareas
+document.addEventListener('keydown', function (e) {
+    if (e.key === ' ' && (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'INPUT')) {
+        e.stopPropagation();
+    }
+});
+
+// Get the popup element
+const popupContent = document.querySelector('.popup-content-ai');
+
+// Add event listener to the popup content
+popupContent.addEventListener('keydown', function(e) {
+  if (e.key === ' ') {
+    e.stopPropagation();
+  }
+});
+
 // Check reCAPTCHA Function
 function checkRecaptcha() {
     var response = grecaptcha.getResponse();
