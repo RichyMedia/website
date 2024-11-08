@@ -4773,7 +4773,7 @@ input, select, textarea {
     z-index: 1000; /* Ensure popup is on top */
   }
   
-  .popup-content {
+  .popup-content-ai {
     overflow-y: auto; /* Add scroll to content if needed */
     max-height: 80vh;
 	background: #292929;
