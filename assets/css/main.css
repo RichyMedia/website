@@ -4785,7 +4785,8 @@ input, select, textarea {
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     border: 1px solid rgb(255 255 255 / 10%);
     padding: 25px;
-    width: 80%;
+    width: 100%;
+	  min-width: 300px;
     max-width: 800px;
     position: fixed;
     top: 50%;
